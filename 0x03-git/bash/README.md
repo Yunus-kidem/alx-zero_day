@@ -1,3 +1,2 @@
 #head
-Vagrant project i'm so excited 
-
+Git project - doing it again is helping me a lot
